@@ -4,4 +4,6 @@
 // commit 4
 function aa () {
     console.log(111211)
+    console.log(222222)
+
 }

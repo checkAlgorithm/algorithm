@@ -6,4 +6,5 @@ function aa () {
     console.log(111211)
     console.log(222222)
     console.log(333333)
+    console.log(4)
 }
